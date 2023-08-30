@@ -1,0 +1,9 @@
+# Query: img/pwm
+# ContextLines: 1
+
+1 result - 1 file
+
+Password-Manager-main\passwordManagerApp.py:
+  30  		tk.Tk.resizable(self, width=False, height=False)
+  31:# 		pwmLogo = tk.PhotoImage(file="img/pwm.png")
+  32  		pwmLogo = (pwmLogo.zoom(25)).subsample(32)

@@ -1,0 +1,6 @@
+__pycache__/
+Frames/__pycache__/
+Database/__pycache__/
+Backend/__pycache__/
+pwmdatabase.db
+secret.key
