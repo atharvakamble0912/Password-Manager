@@ -1,2 +1,2 @@
-EMAIL_ADDRESS = "hitechatharva@gmail.com"
-PASSWORD = "etbujeedhtkwibwp" #enter password
+EMAIL_ADDRESS = ""
+PASSWORD = "" #enter password
